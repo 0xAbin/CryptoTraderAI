@@ -2,6 +2,15 @@
 in progress stage 
 
 
+
+![](https://github.com/AbinBVinod/CryptoTraderAI/blob/main/Abn_AI_trading_crypto_trading__ai_048674cc-b573-4677-900a-b18e4918c224.png)
+
+
+
+
+
+
+
 1.T he scope of your project: Decide on the specific tasks you want  AI to perform, 
 such as predicting price trends or identifying patterns in the chart.
 
