@@ -11,7 +11,7 @@ in progress stage
 
 
 
-1.T he scope of your project: Decide on the specific tasks you want  AI to perform, 
+1.The scope of your project: Decide on the specific tasks you want  AI to perform, 
 such as predicting price trends or identifying patterns in the chart.
 
 2.Collect and preprocess data: Collect historical data for the assets you want to trade, 
