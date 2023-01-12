@@ -47,7 +47,7 @@ while status == 'open':
     order = exchange.fetch_order(order['id'])
     status = order['status']
 
-#  sell order
+#  sell order ec
 sell_order = exchange.create_order(market, 'limit', 'sell', amount, limit_price)
 
 # sell order
